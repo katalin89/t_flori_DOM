@@ -1,0 +1,23 @@
+button{
+    background-color: rgb(160, 104, 132);
+    color: white;
+    border-color:  rgb(160, 104, 132) ;
+}
+.flori{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.first{
+    display: flex;
+    display: flex;align-items: center;
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(207, 180, 185);
+}
+
+.dispare{
+    display:none;
+}
